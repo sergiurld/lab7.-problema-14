@@ -1,0 +1,21 @@
+[2023-05-27 23:14:17] [info] Start Program:
+Path:"C:\Program Files\Facultate\Sem2\SDA\lab7. problema 14\x64\Debug\lab7. problema 14.exe"
+Arguments:
+Working directory: "C:\Program Files\Facultate\Sem2\SDA\lab7. problema 14\"
+Modules: Selected: C:\Program Files\Facultate\Sem2\SDA\lab7. problema 14\x64\Debug\lab7. problema 14.exe Excluded: 
+Sources: Selected: C:\Program Files\Facultate\Sem2\SDA\lab7. problema 14 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Roland\AppData\Local\Temp\lsx31t4k.dk3 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-05-27 23:14:17] [info] Module: C:\Program Files\Facultate\Sem2\SDA\lab7. problema 14\x64\Debug\lab7. problema 14.exe is selected because it matches selected pattern: C:\Program Files\Facultate\Sem2\SDA\lab7. problema 14\x64\Debug\lab7. problema 14.exe
+[2023-05-27 23:14:17] [info] ----------------------------------------------------
+[2023-05-27 23:14:17] [info] Coverage binary generated in file: C:\Users\Roland\AppData\Local\Temp\lsx31t4k.dk3
+[2023-05-27 23:14:17] [info] ----------------------------------------------------
